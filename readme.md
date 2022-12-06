@@ -6,7 +6,9 @@ This is a realtime chatting web application build using Django Framework
 
 ## Find my project at
 
-https://github.com/HimangiV/ChatApp
+Github Repository- _`https://github.com/HimangiV/ChatApp`_
+
+Live on railway.app- _`https://himangi-chatapp.up.railway.app/`_
 
 ## Technologies Used
 
@@ -19,10 +21,6 @@ https://github.com/HimangiV/ChatApp
 ## Prerequisites
 
 - DJANGO and PYTHON installed
-
-## Find my project at
-
-https://github.com/HimangiV/forkify
 
 ## Clone Repository-
 
